@@ -51,3 +51,7 @@ Install [```rtree```](http://toblerity.org/rtree/) through pip.
 Add this to your ~/.bashrc
 
     source ~/cartographer_ws/install_isolated/setup.bash
+
+## Running Cartographer
+
+    roslaunch maze_solver cartographer.launch
